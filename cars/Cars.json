@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "class": "EQS",
+    "bodyType": "Limousine",
+    "model": "",
+    "price": 15900000,
+    "fuelType": "Electric",
+    "carImage": "https://assets.oneweb.mercedes-benz.com/iris/iris.jpg?COSY-EU-100-1713d0VXq0W7qtyO67PobzIr3eWsrrCsdRRzwQZgk4ZbMw3SGtlKStsd2HtcUfp8qXGEuiBJ0l3IrOB2NzObApRA9I5ux4uQC31SrkzNwL6m7jA6ohKV5SQ%25vqCv%25yLRzAHYax75prH1KM1n8wvT3oiZUbXM4FGKuTg90hE6PDBSbSeWAtRtsd5%25QcUfCmfXGEvTVJ0lLOqOB2azEbApHYXI5usoIQC3UC1kzNGJum7j0hShKVBHM%25vq8cXyr%25kWfDpJJ0lCrnOIJRdAbQO%25nyI5ue5JQC3PgwkzN5z9m7jCeohKVzXh%25vq7XFyLRl36YaxHahrH18Bln8520R%256d9lo24MA4F0wOoZ1qggDu63FmZ3MkNulKlO1OsxACeqUx4Wg3yZ3&imgt=P27&bkgnd=9&pov=BE040&uni=cs&im=Crop,rect=(0,0,1450,750),gravity=Center;Resize,width=250"
+  },
+  {
+    "id": 2,
+    "class": "A-Class",
+    "bodyType": "Limousine",
+    "model": "",
+    "price": 4580000,
+    "fuelType": "",
+    "carImage": "https://assets.oneweb.mercedes-benz.com/iris/iris.png?COSY-EU-100-1713d0VXqaW7qtyO67PobzIr3eWsrrCsdRRzwQZg9pZbMw3SGtGyStsd2sDcUfp8qXGEunQJ0l36xOB2qM%25bApUnRI5uG5IQC30SpkzNHTwm7j871hKVi%25M%25vqmtjyLRhA6YaxU5drH1Gc%25n8w7OnoiZK%25NM4FvTQTg9LUV6PDGmhSc6o3jux%25%25vq8cXyr%25WNaYnyiXWrH1CBrn8w5zhoiZH6IM4F8mQTg9Pgn6PDe7oSeWsyhtsLV79MOuljcVL2vGdUdhcfWF002ROxEnfxXr1RjijhWh5DvaAFCDGp0xTfx&imgt=P27&bkgnd=9&pov=BE040&uni=cs&im=Crop,rect=(0,0,1450,750),gravity=Center;Resize,width=250"
+  },
+  {
+    "id": 3,
+    "class": "C-Class",
+    "bodyType": "Limousine",
+    "model": "",
+    "price": 6000000,
+    "fuelType": "",
+    "carImage": "https://assets.oneweb.mercedes-benz.com/iris/iris.jpg?COSY-EU-100-1713d0VXqaSFqtyO67PobzIr3eWsrrCsdRRzwQZgk4ZbMw3SGtle9tsd2HVcUfpOkXGEubSJ0l3IrOB2NS1bApjI9I5uVKMQC31MrkzNwTVm7jZ7ZhKVFKh%25vq9vlyLRDG6YaxWbSrH1KHrn8wvVwoiZUbEM4FGSlTg90626PDBSqSeWzyRtsd7YNcUfKM6XGE4ySJ0lg0VOB2PWEbApe7yI5usKuQC3UvWkzNL6Sm%25kbFDZEttsdB%25ycJtj9GXOcAyjJ0l4DlOB2iMwbAp0ioI5uBeYQC3ASFkzNW2fm7jKeIhKVvsW%25vqLUayLRaARYaBEUVmMDZfrE8qYOfJxXr1RjiiF2MpwQ1pnIu2fzfXRXPq0Agjeq89iph1p&imgt=P27&bkgnd=9&pov=BE040&uni=cs&im=Crop,rect=(0,0,1450,750),gravity=Center;Resize,width=250"
+  },
+  {
+    "id": 4,
+    "class": "EQB",
+    "bodyType": "SUV Range",
+    "model": "",
+    "price": 7750000,
+    "fuelType": "Electric",
+    "carImage": "https://assets.oneweb.mercedes-benz.com/iris/iris.jpg?COSY-EU-100-1713d0VXq5JFqtyO67PobzIr3eWsrrCsdRRzwQZg9BZbMw3SGtGyStsd2sDcUfp8fXGEuiRJ0l3IhOB2NQObApjkoI5uVcZQC31C1kzNwtnm7jA7mhKV5XN%25vq4t9yLRgLFYaxPoqrH1eMqn8wsocoiZrb1M4FnKJTg95z36PDCLuSeWzQMtsd8htcUfiO1XGE4nXJ0lgorOB2PSFbApeIoI5usKxQC3UvWkzNp%25bm7jaSthymI9WFlccUfAyYXOcVD0JbXmYhOB2iMwbAp0kpI5uBmMQC3Af6kzNWLKm7jK7IhKVvsQ%25vqLrdyLRaOXYaxHNhrHAlGqhTWFEnlipEqXV1JnwxV449pTuZkwuoQ3pE7EJxJeRB5PVsRiD4u%25wu&imgt=P27&bkgnd=9&pov=BE040&uni=cs&im=Crop,rect=(0,0,1450,750),gravity=Center;Resize,width=250"
+  },
+  {
+    "id": 5,
+    "class": "GLA",
+    "bodyType": "SUV Range",
+    "model": "",
+    "price": 4850000,
+    "fuelType": "Electric",
+    "carImage": "https://assets.oneweb.mercedes-benz.com/iris/iris.png?COSY-EU-100-1713d0VXqNEFqtyO67PobzIr3eWsrrCsdRRzwQZYVHZbMw3SGtle9tsd2JQcUfpOyXGEuTRJ0lVYhOB2qBqbApRTyI5uG5IQC30g7kzNB%25Km7jAc3hKViSF%25vq4rjyLRgY6Yax%255SrH1GBln8w0hyoiZKbXM4FvmQTg9LYV6PDaGpSeWH0Rtsd9Y3cUfAryXGE5YrJbXSqxVFnn8wPbIoTnlR4M6oeIlTg9vt96PDK%25jSeWgXhtsdRwhcUfGLqXGE0aBJ0lBorOB2AWcbA4wHEcmqN1IwCFiXr0pnIu2fzzjFm93Su9Q6DF1s1n2nvligKfLlCVz9Xu9&imgt=P27&bkgnd=9&pov=BE040&uni=cs&im=Crop,rect=(0,0,1450,750),gravity=Center;Resize,width=250"
+  },
+  {
+    "id": 6,
+    "class": "A-Class",
+    "bodyType": "Hatchback",
+    "model": "AMG",
+    "price": 9250000,
+    "fuelType": "",
+    "carImage": "https://assets.oneweb.mercedes-benz.com/iris/iris.png?COSY-EU-100-1713d0VXqNpFqtyO67PobzIr3eWsrrCsdRRzwQZxkIZbMw3SGtGyStsd2JTcUfpMqXGEjamJ0lV4rOB2qM%25bApUnRI5uG62QC3aCRkzNHmnm7jQyohKVP09%25vqeIkyLRsSyYaxCXYrH1zHdn8w7hnoiZKMIM4FvsjTg9wtn6PDGmhSc6o3jux%25%25vq8cXyr%25WNaYnyiXWrH1Cgln8w5VNoiZH6IM4FNxbTg9Pzn6PDe7sSeWsajtsdUY%25cUfGF6XGE0TjJ0lBOfOBi1aftkV3xb1iN8oZa2rbpldCCNZkFu6pFIT9ZxexrlrKE847dvE5jCFcpF&imgt=P27&bkgnd=9&pov=BE040&uni=cs&im=Crop,rect=(0,0,1450,750),gravity=Center;Resize,width=250"
+  },
+  {
+    "id": 7,
+    "class": "S-Class",
+    "bodyType": "Limousine",
+    "model": "Maybach",
+    "price": 26900000,
+    "fuelType": "",
+    "carImage": "https://assets.oneweb.mercedes-benz.com/iris/iris.jpg?COSY-EU-100-1713d0VXqbSFqtyO67PobzIr3eWsrrCsdRRzwQZv9IZbMw3SGtlKStsd2HtcUfp80XGEubYJ0l36xOB2NS5bApj7bI5uVKDQC31MrkzNwTbm7jZ6vhKVFKE%25vq9UTyLRDGmYaxWbSrH1KJtn8wvOyoiZLbgM4Fa4MTg9HvZ6PD8LmSeWiXRtsd4YTcUfgrcXGEzymJ0l7IVOB2KQObApvdyI5uLfJQC3akOkzNHmdm7jQ71hKVP0W%25vqeIDyLRsYWYaxCXhrH1zHdn8w7QwoiZKq1M4FvyFTg9L6O6PDaSoSeWHthtsd8BQcUfiAWXGEWbSJ0lCrnOIJtR1q9ooiZeIQM6o2xgTSMsQ26PDL7mSeWvK%25tsdPvQcUfercXGE1nwJ0lB0lOB2A81bA4wHEcmqN1IwCr1vWwpnIu2fzzjFm93Su9Q6DF1s1n2nvligKfLlCVz9Xu9&imgt=P27&bkgnd=9&pov=BE040&uni=cs&im=Crop,rect=(0,0,1450,750),gravity=Center;Resize,width=250"
+  },
+  {
+    "id": 8,
+    "class": "GLS",
+    "bodyType": "SUV Range",
+    "model": "Maybach",
+    "price": 29200000,
+    "fuelType": "Hybrid Available",
+    "carImage": "https://assets.oneweb.mercedes-benz.com/iris/iris.jpg?COSY-EU-100-1713d0VXq4EeqtyO67PobzIr3eWsrrCsdRRzwQZ6kvZbMw3SGtGyItsd2HVcUfp8lXGEubmJ0l3IrOB2NS1bApj79I5uxoYQC31MWkzNwznm7jZaShKV5SM%25vqCtkyLRzLyYax7oprH1KI%25n8wvQnoiZLMIM4FGIJTg90tT6PDBSbSeWAtMtsd5cxcUfSUuXGEtadJ0lcIhOB2a8RbApHPwI5usoYQC3UC1kzNGJKm7j0hShKVBHF%25vqA8lyLR5iVYaxVXSrH1qJrn8wP84oiZeIQM6oY2ulVkkzNL6Sm%25kFpKhymaSF%25vqBBTyLR0AWYaxvaprH1LBtn8waVwoiZ3qoM4Fg4FTg9Pzn6PDeLFSeWswRtsLV79MOuljcVLHv5dUdhcfWF002ROxEnfxXr1RjijhWh5DvaAFCDGp0xTfx&imgt=P27&bkgnd=9&pov=BE040&uni=cs&im=Crop,rect=(0,0,1450,750),gravity=Center;Resize,width=250"
+  }
+]
