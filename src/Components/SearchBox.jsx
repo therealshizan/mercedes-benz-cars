@@ -1,6 +1,8 @@
 import { useCallback, useRef } from "react";
 import { AiOutlineSearch } from "react-icons/ai";
 
+import '../Assets/css/SearchBox.css'
+
 const SearchBox = () => {
   const searchContainer = useRef()
   const searchTxt = useRef()

@@ -1,0 +1,27 @@
+#header{
+    background: #000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 4rem;
+}
+
+.header__menu ul{
+    display: flex;
+    column-gap: 2rem;
+}
+
+.header__menu li{
+    color: #f5f5f5;
+    cursor: pointer;
+}
+
+.post-header{
+    background: #000;
+    padding: 1rem 4rem;
+    color: #f5f5f5;
+    border: 1px solid #f5f5f5;
+    border-left: 0;
+    border-right: 0;
+    text-align: center;
+}

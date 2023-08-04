@@ -2,6 +2,8 @@ import { useEffect, useState } from "react"
 import Car from "./Car"
 import Loader from "./Loader"
 
+import '../Assets/css/Cars.css'
+
 const Cars = () => {
   const [isLoading, setIsLoading] = useState(true)
   const [cars, setCars] = useState([])

@@ -1,7 +1,9 @@
-import React from 'react'
 import FuelTypeFilter from './FuelTypeFilter'
 import ModelsFilter from './ModelsFilter'
 import BodyTypeFilter from './BodyTypeFilter'
+
+import '../Assets/css/Filters.css'
+
 
 const Filters = () => {
   return (
