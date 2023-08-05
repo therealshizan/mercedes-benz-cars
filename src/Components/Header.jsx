@@ -16,6 +16,7 @@ const Header = () => {
             {menuLi}
         </ul>
       </div>
+      <div className="header__burger">.Menu</div>
     </div>
 
     <div className="post-header">
